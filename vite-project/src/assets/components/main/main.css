@@ -1,0 +1,45 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 80px;
+    height: 100vh;
+    background-color: bisque;
+}
+
+.txt {
+    width: 60%;
+    text-align: center;
+}
+
+.txt p {
+    padding: 20px 100px;
+}
+
+.txt h1,
+.txt h2 {
+    font-weight: bold;
+}
+.txt {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    margin-top: 1px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: white;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+}
